@@ -208,4 +208,4 @@ Power Tab Editor is offered as a full free version, with all features unlocked a
 Ready to take your music to the next level? Download Power Tab Editor today and start composing like a pro!
 
 ---
-**Last updated:** 2026-11-11 10:03:12 UTC
+**Last updated:** 2026-11-11 18:13:24 UTC
